@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Nello
 - 👀 I’m interested in embedded electronic stuff
 - :man: I'm currently working as a embedded software engineer
+- I like photgraphy 📷, hiking ⛰️, guitare 🎸...
 
 Feel free to collaborate with
 
